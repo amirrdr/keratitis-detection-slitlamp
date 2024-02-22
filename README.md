@@ -1,4 +1,4 @@
-# slitlamp-keratitis-1
+# Detection of Keratitis and Its Subtypes Using Deep Learning and Slitlamp Images
 Code for the paper entitled "From the Diagnosis of Infectious Keratitis to Discriminating Fungal Subtypes: A Deep Learning-Based Study," submitted for review by the Nature journal Scientific Reports.
 
 The code developed for the training and evaluation phases of the three main models introduced in this paper is provided in this repository.
